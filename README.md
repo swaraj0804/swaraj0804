@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from india</h3>
 
 - 🌱 I’m currently learning **BCA**
-- 🔭 I’m currently working on a new website **Dnynanee Group**
+- 🔭 I’m currently working on a new website **DnynaneeGroup**
 
 - 📫 How to reach me **swarajjagtap8055@gmail.com**
 
