@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm SWARAJ JAGTAP</h1>
 <h3 align="center">A passionate frontend developer from india</h3>
 
-- 🔭 I’m currently working on a new website **Dnynanee Group**
-
 - 🌱 I’m currently learning **BCA**
+- 🔭 I’m currently working on a new website **Dnynanee Group**
 
 - 📫 How to reach me **swarajjagtap8055@gmail.com**
 
